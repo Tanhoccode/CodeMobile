@@ -1,0 +1,13 @@
+"users" : {
+  {
+    "username" : "Tan",
+     "password" : "123xx",
+     "fullname" : "Nguyen Minh Tan",
+},
+
+{
+    "username" : "Tanne",
+    "password" : "123aaa",
+    "fullname" : "NMTan",
+}
+}
